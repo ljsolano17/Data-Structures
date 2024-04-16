@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\Queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49BC2892-11CB-4ABA-9091-7C024ABDAC51}|Queue\\Queue.csproj|e:\\repositorio-git\\.net core\\practica\\ejercicios\\estructuras de datos\\queue\\queue\\queuestructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BC2892-11CB-4ABA-9091-7C024ABDAC51}|Queue\\Queue.csproj|solutionrelative:queue\\queuestructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BC2892-11CB-4ABA-9091-7C024ABDAC51}|Queue\\Queue.csproj|e:\\repositorio-git\\.net core\\practica\\ejercicios\\estructuras de datos\\queue\\queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BC2892-11CB-4ABA-9091-7C024ABDAC51}|Queue\\Queue.csproj|solutionrelative:queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BC2892-11CB-4ABA-9091-7C024ABDAC51}|Queue\\Queue.csproj|e:\\repositorio-git\\.net core\\practica\\ejercicios\\estructuras de datos\\queue\\queue\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BC2892-11CB-4ABA-9091-7C024ABDAC51}|Queue\\Queue.csproj|solutionrelative:queue\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 212,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\Queue\\Queue\\Printer.cs",
+              "RelativeDocumentMoniker": "Queue\\Printer.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\Queue\\Queue\\Printer.cs",
+              "RelativeToolTip": "Queue\\Printer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:37:20.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueStructure.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\Queue\\Queue\\QueueStructure.cs",
+              "RelativeDocumentMoniker": "Queue\\QueueStructure.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\Queue\\Queue\\QueueStructure.cs",
+              "RelativeToolTip": "Queue\\QueueStructure.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:11:51.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\Queue\\Queue\\Program.cs",
+              "RelativeDocumentMoniker": "Queue\\Program.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\Queue\\Queue\\Program.cs",
+              "RelativeToolTip": "Queue\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:10:34.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

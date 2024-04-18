@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\LinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE67EB9-63A1-4E5F-9BA3-D48841B5785A}|LinkedList\\LinkedList.csproj|e:\\repositorio-git\\.net core\\practica\\ejercicios\\estructuras de datos\\linkedlist\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE67EB9-63A1-4E5F-9BA3-D48841B5785A}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE67EB9-63A1-4E5F-9BA3-D48841B5785A}|LinkedList\\LinkedList.csproj|e:\\repositorio-git\\.net core\\practica\\ejercicios\\estructuras de datos\\linkedlist\\linkedlist\\sortedlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE67EB9-63A1-4E5F-9BA3-D48841B5785A}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\sortedlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE67EB9-63A1-4E5F-9BA3-D48841B5785A}|LinkedList\\LinkedList.csproj|e:\\repositorio-git\\.net core\\practica\\ejercicios\\estructuras de datos\\linkedlist\\linkedlist\\nodeig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE67EB9-63A1-4E5F-9BA3-D48841B5785A}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\nodeig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE67EB9-63A1-4E5F-9BA3-D48841B5785A}|LinkedList\\LinkedList.csproj|e:\\repositorio-git\\.net core\\practica\\ejercicios\\estructuras de datos\\linkedlist\\linkedlist\\igpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE67EB9-63A1-4E5F-9BA3-D48841B5785A}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\igpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE67EB9-63A1-4E5F-9BA3-D48841B5785A}|LinkedList\\LinkedList.csproj|e:\\repositorio-git\\.net core\\practica\\ejercicios\\estructuras de datos\\linkedlist\\linkedlist\\linkedliststructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE67EB9-63A1-4E5F-9BA3-D48841B5785A}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\linkedliststructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE67EB9-63A1-4E5F-9BA3-D48841B5785A}|LinkedList\\LinkedList.csproj|e:\\repositorio-git\\.net core\\practica\\ejercicios\\estructuras de datos\\linkedlist\\linkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE67EB9-63A1-4E5F-9BA3-D48841B5785A}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 212,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NodeIG.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\LinkedList\\LinkedList\\NodeIG.cs",
+              "RelativeDocumentMoniker": "LinkedList\\NodeIG.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\LinkedList\\LinkedList\\NodeIG.cs",
+              "RelativeToolTip": "LinkedList\\NodeIG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:19:46.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortedLinkedList.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\LinkedList\\LinkedList\\SortedLinkedList.cs",
+              "RelativeDocumentMoniker": "LinkedList\\SortedLinkedList.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\LinkedList\\LinkedList\\SortedLinkedList.cs",
+              "RelativeToolTip": "LinkedList\\SortedLinkedList.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:19:07.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGPost.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\LinkedList\\LinkedList\\IGPost.cs",
+              "RelativeDocumentMoniker": "LinkedList\\IGPost.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\LinkedList\\LinkedList\\IGPost.cs",
+              "RelativeToolTip": "LinkedList\\IGPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:44:45.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinkedListStructure.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\LinkedList\\LinkedList\\LinkedListStructure.cs",
+              "RelativeDocumentMoniker": "LinkedList\\LinkedListStructure.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\LinkedList\\LinkedList\\LinkedListStructure.cs",
+              "RelativeToolTip": "LinkedList\\LinkedListStructure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:32:06.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Node.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\LinkedList\\LinkedList\\Node.cs",
+              "RelativeDocumentMoniker": "LinkedList\\Node.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\LinkedList\\LinkedList\\Node.cs",
+              "RelativeToolTip": "LinkedList\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:31:45.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\LinkedList\\LinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "LinkedList\\Program.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\LinkedList\\LinkedList\\Program.cs",
+              "RelativeToolTip": "LinkedList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:29:22.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

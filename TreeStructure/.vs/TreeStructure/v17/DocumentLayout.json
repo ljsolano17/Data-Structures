@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\Tree\\TreeStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D545CE4A-0490-4679-A7B5-F0FC6A64DC1C}|TreeStructure\\TreeStructure.csproj|e:\\repositorio-git\\.net core\\practica\\ejercicios\\estructuras de datos\\tree\\treestructure\\treestructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D545CE4A-0490-4679-A7B5-F0FC6A64DC1C}|TreeStructure\\TreeStructure.csproj|solutionrelative:treestructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D545CE4A-0490-4679-A7B5-F0FC6A64DC1C}|TreeStructure\\TreeStructure.csproj|e:\\repositorio-git\\.net core\\practica\\ejercicios\\estructuras de datos\\tree\\treestructure\\treestructure\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D545CE4A-0490-4679-A7B5-F0FC6A64DC1C}|TreeStructure\\TreeStructure.csproj|solutionrelative:treestructure\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D545CE4A-0490-4679-A7B5-F0FC6A64DC1C}|TreeStructure\\TreeStructure.csproj|e:\\repositorio-git\\.net core\\practica\\ejercicios\\estructuras de datos\\tree\\treestructure\\treestructure\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D545CE4A-0490-4679-A7B5-F0FC6A64DC1C}|TreeStructure\\TreeStructure.csproj|solutionrelative:treestructure\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 212,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\Tree\\TreeStructure\\TreeStructure\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "TreeStructure\\BinaryTree.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\Tree\\TreeStructure\\TreeStructure\\BinaryTree.cs",
+              "RelativeToolTip": "TreeStructure\\BinaryTree.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwDsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T21:18:59.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\Tree\\TreeStructure\\TreeStructure\\TreeNode.cs",
+              "RelativeDocumentMoniker": "TreeStructure\\TreeNode.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\Tree\\TreeStructure\\TreeStructure\\TreeNode.cs",
+              "RelativeToolTip": "TreeStructure\\TreeNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T21:18:47.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\Tree\\TreeStructure\\TreeStructure\\Program.cs",
+              "RelativeDocumentMoniker": "TreeStructure\\Program.cs",
+              "ToolTip": "E:\\REPOSITORIO-GIT\\.NET Core\\PRACTICA\\Ejercicios\\Estructuras de datos\\Tree\\TreeStructure\\TreeStructure\\Program.cs",
+              "RelativeToolTip": "TreeStructure\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T21:14:33.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
